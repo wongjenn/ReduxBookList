@@ -1,4 +1,10 @@
-# ReduxSimpleStarter
+# Redux BookList
+created a book list app using React and Redux
+
+To run:
+- git clone ..
+- npm install
+- npm start
 
 Interested in learning [Redux](https://www.udemy.com/react-redux/)?
 
